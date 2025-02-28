@@ -3,6 +3,10 @@
   "displayName": "LoggingHighlighter",
   "description": "This will highlight C# log files depending on the log type",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabebautista11/VSC_Csharp_Logging_Highlighter"
+  },
   "engines": {
     "vscode": "^1.97.0"
   },
